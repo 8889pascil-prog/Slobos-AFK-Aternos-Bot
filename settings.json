@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "2013ddd-9ARx.aternos.me",
-    "port": 17135,
+    "ip": "2013ddd.aternos.me",
+    "port": 42442,
     "version": "",
     "try-creative": false
   },
